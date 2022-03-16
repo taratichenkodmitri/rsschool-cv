@@ -6,3 +6,8 @@
 * __Location__: Nur-Sultan
 * __Email__: tarataichenkodmitri@gmail.com
 * __GitHub__: [tarataichenkodmitri](https://github.com/taratichenkodmitri)
+
+## About Me
+Studying at Tomsk State University. I work as a junior backend developer.
+
+
