@@ -31,3 +31,7 @@ Studying at Tomsk State University. I work as a junior backend developer.
 * JS
 ## Code Example
 [spring study project](https://github.com/taratichenkodmitri/springlearnWithoutJPAandSpringBoot)
+## Education
+__University__: Tomsk State University
+## English
+__VERY BAD__
